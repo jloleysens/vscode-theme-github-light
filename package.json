@@ -1,17 +1,13 @@
 {
-  "name": "vscode-theme-github-light",
-  "displayName": "Github Light Theme",
-  "description": "Try this theme if others don't meet your needs.",
+  "name": "jloleysens-vscode-theme-github-light",
+  "displayName": "jloleysens' Github Light Theme",
+  "description": "A description",
   "version": "7.14.2",
-  "publisher": "Hyzeta",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yunlingz/vscode-theme-github-light/issues"
-  },
+  "publisher": "jloleysens",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/yunlingz/vscode-theme-github-light.git"
+    "url": "https://github.com/jloleysens/vscode-theme-github-light"
   },
+  "license": "MIT",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.24.0"
